@@ -2,3 +2,5 @@
 # Class codes
 
 Códigos realizados em sala de aula.
+
+"Treecko eu escolho você!"
